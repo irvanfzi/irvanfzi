@@ -1,6 +1,8 @@
 ## 👋 Hi!
 
-I'm Irvan Fauzi
+I’m Irvan Fauzi, a Computer Science student with a deep interest in blockchain and decentralized technologies. I’ve been exploring the world of blockchain and cryptocurrencies, focusing on its applications like decentralized finance (DeFi) and transformative digital solutions.
+
+As a student, I’m passionate about bridging technical innovation and practical implementation, aiming to contribute to this exciting and rapidly evolving industry.
 
 ## 📈 GitHub Stats
 [![GitHub followers](https://img.shields.io/github/followers/irvanfzi?logo=GitHub&style=for-the-badge)](https://github.com/irvanfzi)
